@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-0078d7?style=flat-square&logo=microsoft-edge&logoColor=white)](https://liinhleo.github.io/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Liinhleo.Liinhleo)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=leonatruong-novobi.leonatruong-novobi)
 This is Leona Truong from Viet Nam, base in Ho Chi Minh.
 - 👋 I’m currently a junior quality control at Novobi VietNam;
 - 🌱 I’m currently learning many beautiful things in the field of `Enterprise Resource Planning (ERP)`;
